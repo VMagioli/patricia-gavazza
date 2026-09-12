@@ -1,0 +1,8 @@
+{
+  "name": "Remix Patricia Gavazza Psicologa 2",
+  "description": "Alteração nas trasições",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
